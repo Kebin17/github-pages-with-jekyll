@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my first post"
+title:  "Welcome to my first post :)"
 date: 2022-06-08
 ---
 
