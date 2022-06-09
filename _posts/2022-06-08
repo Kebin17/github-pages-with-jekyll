@@ -1,1 +1,10 @@
-Fecha de personalización de el blog: 8 de mayo de 2022.
+---
+layout: post
+title:  "Welcome to my first post"
+---
+
+# Welcome
+
+**Hello world**, this is my first blog post.
+
+I hope you like it!
