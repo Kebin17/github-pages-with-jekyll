@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El título de tu post"
+title: "Welcome to my first post in Github :)"
 date: 2022-06-08
 ---
 
